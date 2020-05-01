@@ -11,6 +11,8 @@
 		762821C82459CD2700A543A6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 762821C72459CD2700A543A6 /* ViewController.swift */; };
 		762821CA2459CD2C00A543A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 762821C92459CD2C00A543A6 /* Assets.xcassets */; };
 		762821CD2459CD2C00A543A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 762821CB2459CD2C00A543A6 /* Main.storyboard */; };
+		764AF197245AFFDF00F1F2D9 /* Blum-Micali_Algorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AF196245AFFDF00F1F2D9 /* Blum-Micali_Algorithm.swift */; };
+		764AF199245C758600F1F2D9 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AF198245C758600F1F2D9 /* Alert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		762821CC2459CD2C00A543A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		762821CE2459CD2C00A543A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		762821CF2459CD2C00A543A6 /* Cryptographic_pseudorandom_number_generator.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Cryptographic_pseudorandom_number_generator.entitlements; sourceTree = "<group>"; };
+		764AF196245AFFDF00F1F2D9 /* Blum-Micali_Algorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Blum-Micali_Algorithm.swift"; sourceTree = "<group>"; };
+		764AF198245C758600F1F2D9 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				762821CB2459CD2C00A543A6 /* Main.storyboard */,
 				762821CE2459CD2C00A543A6 /* Info.plist */,
 				762821CF2459CD2C00A543A6 /* Cryptographic_pseudorandom_number_generator.entitlements */,
+				764AF196245AFFDF00F1F2D9 /* Blum-Micali_Algorithm.swift */,
+				764AF198245C758600F1F2D9 /* Alert.swift */,
 			);
 			path = Cryptographic_pseudorandom_number_generator;
 			sourceTree = "<group>";
@@ -133,7 +139,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				764AF197245AFFDF00F1F2D9 /* Blum-Micali_Algorithm.swift in Sources */,
 				762821C82459CD2700A543A6 /* ViewController.swift in Sources */,
+				764AF199245C758600F1F2D9 /* Alert.swift in Sources */,
 				762821C62459CD2700A543A6 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
