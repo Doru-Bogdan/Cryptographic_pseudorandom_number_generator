@@ -13,6 +13,7 @@
 		762821CD2459CD2C00A543A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 762821CB2459CD2C00A543A6 /* Main.storyboard */; };
 		764AF197245AFFDF00F1F2D9 /* Blum-Micali_Algorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AF196245AFFDF00F1F2D9 /* Blum-Micali_Algorithm.swift */; };
 		764AF199245C758600F1F2D9 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AF198245C758600F1F2D9 /* Alert.swift */; };
+		76C7FF792465623F0008E113 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 76C7FF782465623F0008E113 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		762821CF2459CD2C00A543A6 /* Cryptographic_pseudorandom_number_generator.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Cryptographic_pseudorandom_number_generator.entitlements; sourceTree = "<group>"; };
 		764AF196245AFFDF00F1F2D9 /* Blum-Micali_Algorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Blum-Micali_Algorithm.swift"; sourceTree = "<group>"; };
 		764AF198245C758600F1F2D9 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
+		76C7FF782465623F0008E113 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 		762821C42459CD2700A543A6 /* Cryptographic_pseudorandom_number_generator */ = {
 			isa = PBXGroup;
 			children = (
+				76C7FF782465623F0008E113 /* README.md */,
 				762821C52459CD2700A543A6 /* AppDelegate.swift */,
 				762821C72459CD2700A543A6 /* ViewController.swift */,
 				762821C92459CD2C00A543A6 /* Assets.xcassets */,
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				76C7FF792465623F0008E113 /* README.md in Resources */,
 				762821CA2459CD2C00A543A6 /* Assets.xcassets in Resources */,
 				762821CD2459CD2C00A543A6 /* Main.storyboard in Resources */,
 			);
